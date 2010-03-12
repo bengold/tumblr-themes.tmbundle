@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{Timestamp}</string>
+	<key>name</key>
+	<string>Timestamp</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>uuid</key>
+	<string>5A6F3E63-C247-4045-B5E1-6ACAED6AA32D</string>
+</dict>
+</plist>

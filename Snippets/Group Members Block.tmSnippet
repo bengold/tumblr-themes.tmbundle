@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{block:GroupMembers}
+	$0
+{/block:GroupMembers}</string>
+	<key>name</key>
+	<string>Group Members Block</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>uuid</key>
+	<string>9B10B44D-E5F5-4F16-A24F-F2C8EBCE9B8A</string>
+</dict>
+</plist>

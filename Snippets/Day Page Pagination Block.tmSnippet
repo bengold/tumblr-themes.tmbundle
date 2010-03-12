@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{block:DayPagination}
+	$0
+{/block:DayPagination}</string>
+	<key>name</key>
+	<string>Day Page Pagination Block</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>uuid</key>
+	<string>BC64B0F9-EEF9-4756-B71E-246B619E2FAE</string>
+</dict>
+</plist>

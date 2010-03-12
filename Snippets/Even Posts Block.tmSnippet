@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{block:Even}
+	$0
+{/block:Even}</string>
+	<key>name</key>
+	<string>Even Posts Block</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>even posts</string>
+	<key>uuid</key>
+	<string>83A57F54-4BC3-40ED-9CB8-F61AB7859A88</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{block:SearchPage}
+	$0
+{/block:SearchPage}</string>
+	<key>name</key>
+	<string>Search Page Block</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>uuid</key>
+	<string>C0A4F3D8-6F4D-42CE-ACC2-003027F65936</string>
+</dict>
+</plist>

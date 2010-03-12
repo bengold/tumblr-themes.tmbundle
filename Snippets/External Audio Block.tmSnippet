@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{block:ExternalAudio}
+	$0
+{/block:ExternalAudio}</string>
+	<key>name</key>
+	<string>External Audio Block</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>external audio</string>
+	<key>uuid</key>
+	<string>29E04ABB-2D96-487A-8227-400F21AF3743</string>
+</dict>
+</plist>

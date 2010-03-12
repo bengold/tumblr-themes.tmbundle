@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{block:SameDayDate}
+	$0
+{/block:SameDayDate}</string>
+	<key>name</key>
+	<string>Same Day Date</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>same day block</string>
+	<key>uuid</key>
+	<string>37ED1F1C-DD1D-4F8C-8B8D-84CB3FC8520F</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{block:Likes}
+	$0
+{/block:Likes}</string>
+	<key>name</key>
+	<string>Your Likes Block</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>uuid</key>
+	<string>A8A6FAC4-D54C-4BA4-B5D5-624B33210386</string>
+</dict>
+</plist>
