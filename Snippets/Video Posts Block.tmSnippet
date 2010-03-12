@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{block:Video}
+	$0
+{/block:Video}</string>
+	<key>name</key>
+	<string>Video Posts Block</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>video block</string>
+	<key>uuid</key>
+	<string>BD8B2A87-C98A-420F-9C5C-24395504BBAB</string>
+</dict>
+</plist>

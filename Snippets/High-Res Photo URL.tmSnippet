@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{PhotoURL-HighRes}</string>
+	<key>name</key>
+	<string>High-Res Photo URL</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>uuid</key>
+	<string>BA49BD88-A555-43A0-8732-9F8616F34DE8</string>
+</dict>
+</plist>

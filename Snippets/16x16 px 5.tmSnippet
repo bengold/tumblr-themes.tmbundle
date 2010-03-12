@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{PostAuthorPortraitURL-16}</string>
+	<key>name</key>
+	<string>16x16 px</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>uuid</key>
+	<string>588E1A6C-E962-45DF-ADB3-0A6E7AC92971</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{block:Twitter}
+	$0
+{/block:Twitter}</string>
+	<key>name</key>
+	<string>Twitter Block</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>uuid</key>
+	<string>71D4D038-FA4F-4294-96DD-A3BAA6EB69F8</string>
+</dict>
+</plist>

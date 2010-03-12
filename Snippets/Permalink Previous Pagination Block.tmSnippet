@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{block:PreviousPost}$1{/block:PreviousPost}$0</string>
+	<key>name</key>
+	<string>Permalink Previous Pagination Block</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>uuid</key>
+	<string>F2505202-F297-4699-B61E-996CA787FC8D</string>
+</dict>
+</plist>
