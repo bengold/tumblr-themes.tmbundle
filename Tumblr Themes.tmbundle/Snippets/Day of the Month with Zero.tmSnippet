@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{DayOfMonthWithZero}</string>
+	<key>name</key>
+	<string>Day of the Month with Zero</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>uuid</key>
+	<string>39D07230-DF4F-4466-A1AD-A4B3039BC0D9</string>
+</dict>
+</plist>

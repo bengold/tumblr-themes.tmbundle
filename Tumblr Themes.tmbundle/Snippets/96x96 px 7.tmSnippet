@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{FollowedPortraitURL-96}</string>
+	<key>name</key>
+	<string>96x96 px</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>uuid</key>
+	<string>7EFDD649-A8C8-46C2-96EB-8593ACA3E41E</string>
+</dict>
+</plist>

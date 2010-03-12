@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{block:AskEnabled}
+	$0
+{/block:AskEnabled}</string>
+	<key>name</key>
+	<string>Ask Enabled Block</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>ask block</string>
+	<key>uuid</key>
+	<string>B8529E1C-D379-4158-94DA-7525F758A48F</string>
+</dict>
+</plist>

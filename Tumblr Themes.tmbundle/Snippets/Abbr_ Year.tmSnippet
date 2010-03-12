@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{ShortYear}</string>
+	<key>name</key>
+	<string>Abbr. Year</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>uuid</key>
+	<string>80EF7851-60BD-4192-A858-12FC61997052</string>
+</dict>
+</plist>

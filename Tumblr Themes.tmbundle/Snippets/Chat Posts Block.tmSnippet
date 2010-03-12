@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{block:Chat}
+	$0
+{/block:Chat}</string>
+	<key>name</key>
+	<string>Chat Posts Block</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>chat block</string>
+	<key>uuid</key>
+	<string>7EC6D22E-633E-43B8-B668-6288654EE940</string>
+</dict>
+</plist>

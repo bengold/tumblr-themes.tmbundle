@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{ShortDayOfWeek}</string>
+	<key>name</key>
+	<string>Abbr. Day of the Week</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>uuid</key>
+	<string>F58B76E8-FC9B-4041-A527-3D242C76D2FD</string>
+</dict>
+</plist>

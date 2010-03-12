@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{AudioPlayerWhite}</string>
+	<key>name</key>
+	<string>White</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>uuid</key>
+	<string>10C5CC66-A10E-4427-8E14-75E21731B744</string>
+</dict>
+</plist>

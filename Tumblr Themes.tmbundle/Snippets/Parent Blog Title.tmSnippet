@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{ReblogParentTitle}</string>
+	<key>name</key>
+	<string>Parent Blog Title</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>uuid</key>
+	<string>64551347-6A04-4C00-B54D-0E48314BB966</string>
+</dict>
+</plist>
