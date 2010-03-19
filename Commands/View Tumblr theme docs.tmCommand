@@ -5,7 +5,7 @@
 	<key>beforeRunningCommand</key>
 	<string>nop</string>
 	<key>command</key>
-	<string>echo "&lt;html&gt;&lt;head&gt;&lt;meta http-equiv=\"Refresh\" content=\"0; http://www.tumblr.com/docs/en/custom_themes\"&gt;&lt;/head&gt;&lt;body&gt;&lt;/body&gt;&lt;/html&gt;"</string>
+	<string>open http://www.tumblr.com/docs/en/custom_themes</string>
 	<key>fallbackInput</key>
 	<string>word</string>
 	<key>input</key>
@@ -13,7 +13,7 @@
 	<key>name</key>
 	<string>View Tumblr theme docs</string>
 	<key>output</key>
-	<string>showAsHTML</string>
+	<string>discard</string>
 	<key>uuid</key>
 	<string>E2A55C14-E343-4592-B85B-BDA5C6F270DF</string>
 </dict>

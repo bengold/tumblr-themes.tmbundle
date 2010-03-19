@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;meta name="if:${1:Boolean Option}" content="${2:1}"/&gt;
+$0</string>
+	<key>name</key>
+	<string>Meta-if Tag</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>meta if</string>
+	<key>uuid</key>
+	<string>DE09D220-AE91-4670-8E27-9F492C8C1BCF</string>
+</dict>
+</plist>

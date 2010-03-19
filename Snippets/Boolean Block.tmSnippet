@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{block:If${1:BooleanOption}}
+	$0
+{/block:$1}</string>
+	<key>name</key>
+	<string>Boolean Block</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>boolean</string>
+	<key>uuid</key>
+	<string>65B3373D-CCB2-4573-801A-308A87339D53</string>
+</dict>
+</plist>

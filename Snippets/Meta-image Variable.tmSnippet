@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{color:${1:Header}}</string>
+	<key>name</key>
+	<string>Meta-image Variable</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>meta image</string>
+	<key>uuid</key>
+	<string>23C3AB7E-F122-4A32-9088-46A1CB048705</string>
+</dict>
+</plist>
