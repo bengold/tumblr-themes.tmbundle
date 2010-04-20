@@ -1,12 +1,16 @@
-Tumblr Themes TextMate Bundle 1.1
+Tumblr Themes TextMate Bundle 1.2
 ---------------------------------
 
 ### What is this? ###
 
-This is is a tmbundle for the Mac text editor [TextMate](http://macromates.com/). It contains snippets for every Block an Variable from the the Tumblr custom themes docs as of March 2010. There are a lot of snippets in this bundle, about a megabyte's worth (which is pretty fucking big for a TextMate bundle). They have been organized in a manner that is similar to the [theme docs](http://www.tumblr.com/docs/en/custom_themes), but some adjustments have been made to make the snippets easy accessible in the contextual menu.
+This is is a tmbundle for the Mac text editor [TextMate](http://macromates.com/). It contains snippets for every Block an Variable from the the Tumblr custom themes docs as of April 2010. There are a lot of snippets in this bundle, about a megabyte's worth (which is pretty fucking big for a TextMate bundle). They have been organized in a manner that is similar to the [theme docs](http://www.tumblr.com/docs/en/custom_themes), but some adjustments have been made to make the snippets easy accessible in the contextual menu.
 
 
-### Release Notes - Updated: 03/18/10 ###
+### Release Notes - Updated: 04/20/10 ###
+
+__[1.2]__
+
+* Added snippets for new Plaintext, Javascript, and Javascript Plaintext variables. These variables have not been added to the theme docs yet. [The Tumblr Staff Blog has more information](http://staff.tumblr.com/post/536133267/theme-variable-transformations).
 
 __[1.1]__
 
@@ -22,7 +26,7 @@ __[1.0]__
 
 ### To Do ###
 
-* Figure out some way to preview themes
+* <strike>Figure out some way to preview themes</strike> [mwunsch is a genius](http://github.com/mwunsch/thimble), just need to integrate it into this plugin
 * Create a bare bones theme template
 * Add more tab triggers
 * Add snippets for 3rd-party Tumblr theme add-ons
