@@ -1,12 +1,16 @@
-Tumblr Themes TextMate Bundle 1.2
+Tumblr Themes TextMate Bundle 1.3
 ---------------------------------
 
 ### What is this? ###
 
-This is is a tmbundle for the Mac text editor [TextMate](http://macromates.com/). It contains snippets for every Block an Variable from the the Tumblr custom themes docs as of April 2010. There are a lot of snippets in this bundle, about a megabyte's worth (which is pretty fucking big for a TextMate bundle). They have been organized in a manner that is similar to the [theme docs](http://www.tumblr.com/docs/en/custom_themes), but some adjustments have been made to make the snippets easy accessible in the contextual menu.
+This is is a tmbundle for the Mac text editor [TextMate](http://macromates.com/). It contains snippets for every Block an Variable from the the Tumblr custom themes docs as of May 2010. There are a lot of snippets in this bundle, about a megabyte's worth (which is pretty fucking big for a TextMate bundle). They have been organized in a manner that is similar to the [theme docs](http://www.tumblr.com/docs/en/custom_themes), but some adjustments have been made to make the snippets easy accessible in the contextual menu.
 
 
-### Release Notes - Updated: 04/20/10 ###
+### Release Notes - Updated: 05/03/10 ###
+
+__[1.3]__
+
+* Added snippets for URLEncode variable transformation, Raw Audio urls, and Ajax Notes variables.
 
 __[1.2]__
 

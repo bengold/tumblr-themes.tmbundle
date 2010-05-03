@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{JS$1};$0</string>
+	<string>{URLEncoded${1:variable}}$0</string>
 	<key>name</key>
-	<string>Javascript</string>
+	<string>URLEncoded</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>js</string>
+	<string>encoded</string>
 	<key>uuid</key>
-	<string>B724DEB3-B3A6-4A8C-BFAF-543B297E3A63</string>
+	<string>6820C504-0B7A-44A1-B1CE-456615EC1115</string>
 </dict>
 </plist>

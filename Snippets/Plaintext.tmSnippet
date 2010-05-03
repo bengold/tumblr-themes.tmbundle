@@ -6,6 +6,8 @@
 	<string>{Plaintext$1}$0</string>
 	<key>name</key>
 	<string>Plaintext</string>
+	<key>scope</key>
+	<string>text.html</string>
 	<key>tabTrigger</key>
 	<string>plain</string>
 	<key>uuid</key>

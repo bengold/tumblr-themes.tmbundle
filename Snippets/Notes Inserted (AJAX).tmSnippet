@@ -3,14 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{JS$1};$0</string>
+	<string>tumblrNotesInserted()</string>
 	<key>name</key>
-	<string>Javascript</string>
+	<string>Notes Inserted (AJAX)</string>
 	<key>scope</key>
 	<string>text.html</string>
-	<key>tabTrigger</key>
-	<string>js</string>
 	<key>uuid</key>
-	<string>B724DEB3-B3A6-4A8C-BFAF-543B297E3A63</string>
+	<string>D4ADFE34-A569-4E97-BC75-B52D1698A317</string>
 </dict>
 </plist>

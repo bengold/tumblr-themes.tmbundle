@@ -6,6 +6,8 @@
 	<string>{JSPlaintext$1};$0</string>
 	<key>name</key>
 	<string>Javascript Plaintext</string>
+	<key>scope</key>
+	<string>text.html</string>
 	<key>tabTrigger</key>
 	<string>jsplain</string>
 	<key>uuid</key>
