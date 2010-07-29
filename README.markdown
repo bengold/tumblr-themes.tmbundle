@@ -1,12 +1,19 @@
-Tumblr Themes TextMate Bundle 1.3
+Tumblr Themes TextMate Bundle 1.4
 ---------------------------------
 
 ### What is this? ###
 
-This is is a tmbundle for the Mac text editor [TextMate](http://macromates.com/). It contains snippets for every Block an Variable from the the Tumblr custom themes docs as of May 2010. There are a lot of snippets in this bundle, about a megabyte's worth (which is pretty fucking big for a TextMate bundle). They have been organized in a manner that is similar to the [theme docs](http://www.tumblr.com/docs/en/custom_themes), but some adjustments have been made to make the snippets easy accessible in the contextual menu.
+This is is a tmbundle for the Mac text editor [TextMate](http://macromates.com/). It contains snippets for every Block an Variable from the the Tumblr custom themes docs as of July 2010. There are a lot of snippets in this bundle, about a megabyte's worth (which is pretty fucking big for a TextMate bundle). They have been organized in a manner that is similar to the [theme docs](http://www.tumblr.com/docs/en/custom_themes), but some adjustments have been made to make the snippets easy accessible in the contextual menu.
 
 
-### Release Notes - Updated: 05/03/10 ###
+### Release Notes - Updated: 07/29/10 ###
+
+__[1.4]__
+
+* Added Staff Blog link.
+* Created Addons group that contains links for generating a Tumblr Counter, adding the Streampad Player, and Adding Disqus comments.
+* Moved Static file command to bottom with a new command that copies the entire document to the clipboard and opens up the New Theme Submission page.
+* Added variables for Jump Pagination
 
 __[1.3]__
 
@@ -30,11 +37,10 @@ __[1.0]__
 
 ### To Do ###
 
-* <strike>Figure out some way to preview themes</strike> [mwunsch is a genius](http://github.com/mwunsch/thimble), just need to integrate it into this plugin
-* Create a bare bones theme template
+* Add Thimblr to a future version
+* Add a link to the Custom CSS theme by Bill Israel and some other guy.
 * Add more tab triggers
-* Add snippets for 3rd-party Tumblr theme add-ons
-	* i.e. Disqus, Steampad, Google Analytics, ect.
+* <strike>Add snippets for 3rd-party Tumblr theme add-ons</strike> Might add more later.
 
 
-###### Created by [Ben Gold](http://bengold.info) -- Theme Docs by Tumblr, Inc. -- Released under the [GPL 3.0 License](http://creativecommons.org/licenses/GPL/2.0/) -- © 2010 [Ben Gold](mailto:ben@bengold.tv) ######
+###### Created by [Ben Gold](http://bengold.info) -- Theme Docs by Tumblr, Inc. -- Released under the [GPL 3.0 License](http://creativecommons.org/licenses/GPL/2.0/) -- © 2010 [Ben Gold](mailto:goldb@rpi.edu) ######

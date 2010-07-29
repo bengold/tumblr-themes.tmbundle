@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{block:JumpPagination length="5"}
+	{block:CurrentPage}
+		&lt;span class="current_page"&gt;{PageNumber}&lt;/span&gt;
+	{/block:CurrentPage}
+
+	{block:JumpPage}
+		&lt;a class="jump_page" href="{URL}"&gt;{PageNumber}&lt;/a&gt;
+	{/block:JumpPage}
+{/block:JumpPagination}</string>
+	<key>name</key>
+	<string>Jump Page Example</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>uuid</key>
+	<string>98057736-2761-4571-8936-2A3D08790C31</string>
+</dict>
+</plist>

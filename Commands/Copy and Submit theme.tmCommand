@@ -3,18 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>beforeRunningCommand</key>
-	<string>nop</string>
+	<string>saveActiveFile</string>
 	<key>command</key>
-	<string>open http://www.tumblr.com/themes/upload_static_file</string>
+	<string>pbcopy
+open http://www.tumblr.com/themes/new</string>
 	<key>fallbackInput</key>
 	<string>word</string>
 	<key>input</key>
-	<string>none</string>
+	<string>document</string>
 	<key>name</key>
-	<string>Upload a static file</string>
+	<string>Copy and Submit theme</string>
 	<key>output</key>
 	<string>discard</string>
 	<key>uuid</key>
-	<string>B32EFF5E-1753-49EF-B5AE-1E1F5ED71AC3</string>
+	<string>265BC162-DEE8-46E8-A683-30304EAE2E18</string>
 </dict>
 </plist>

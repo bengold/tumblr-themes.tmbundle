@@ -5,16 +5,16 @@
 	<key>beforeRunningCommand</key>
 	<string>nop</string>
 	<key>command</key>
-	<string>open http://www.tumblr.com/themes/upload_static_file</string>
+	<string>open http://www.streampad.com/getit</string>
 	<key>fallbackInput</key>
 	<string>word</string>
 	<key>input</key>
 	<string>none</string>
 	<key>name</key>
-	<string>Upload a static file</string>
+	<string>Add Streampad player</string>
 	<key>output</key>
 	<string>discard</string>
 	<key>uuid</key>
-	<string>B32EFF5E-1753-49EF-B5AE-1E1F5ED71AC3</string>
+	<string>F43E0BFE-1683-48D1-A14E-92FBB531CC40</string>
 </dict>
 </plist>

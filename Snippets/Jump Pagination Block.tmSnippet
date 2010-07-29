@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{block:JumpPagination length="${1:5}"}
+	$0
+{/block:JumpPagination}</string>
+	<key>name</key>
+	<string>Jump Pagination Block</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>uuid</key>
+	<string>87715A20-4576-4CBD-ACB2-C07C9EA530C2</string>
+</dict>
+</plist>

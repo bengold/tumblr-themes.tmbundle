@@ -13,7 +13,7 @@
 	<key>name</key>
 	<string>Help: Twitter integration example</string>
 	<key>output</key>
-	<string>showAsHTML</string>
+	<string>discard</string>
 	<key>uuid</key>
 	<string>BCE16072-291A-4821-A22A-32D330A9AADA</string>
 </dict>

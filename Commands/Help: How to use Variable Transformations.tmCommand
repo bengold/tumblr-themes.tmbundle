@@ -13,7 +13,7 @@
 	<key>name</key>
 	<string>Help: How to use Variable Transformations</string>
 	<key>output</key>
-	<string>showAsHTML</string>
+	<string>discard</string>
 	<key>uuid</key>
 	<string>914202C6-0B0B-4E72-B437-A8CFB05F783C</string>
 </dict>
