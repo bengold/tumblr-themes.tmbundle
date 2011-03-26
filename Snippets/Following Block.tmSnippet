@@ -10,6 +10,8 @@
 	<string>Following Block</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>following</string>
 	<key>uuid</key>
 	<string>7E6FA647-B526-4408-A378-E75B7E62978C</string>
 </dict>

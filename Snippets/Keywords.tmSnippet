@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;link rel="alternate" type="application/rss+xml" title="RSS" href="{RSS}"/&gt;
+	<string>&lt;meta name="keywords" content="{block:Tags}{Tag}, {/block:Tags}{Title}" /&gt;
 $0</string>
 	<key>name</key>
-	<string>RSS</string>
+	<string>Keywords</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
-	<string>rss</string>
+	<string>desc</string>
 	<key>uuid</key>
-	<string>6610E94D-2CB6-4A90-9025-879E92926EF9</string>
+	<string>285602A5-198C-4522-86B2-8117093BFF37</string>
 </dict>
 </plist>

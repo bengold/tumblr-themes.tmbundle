@@ -3,15 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;link rel="alternate" type="application/rss+xml" title="RSS" href="{RSS}"/&gt;
-$0</string>
+	<string>&lt;link rel="apple-touch-icon" href="{PortraitURL-128}"/&gt;</string>
 	<key>name</key>
-	<string>RSS</string>
+	<string>Touch icon</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
-	<string>rss</string>
+	<string>touch</string>
 	<key>uuid</key>
-	<string>6610E94D-2CB6-4A90-9025-879E92926EF9</string>
+	<string>F2D93243-52E9-437C-9D86-B7AC983AE35D</string>
 </dict>
 </plist>

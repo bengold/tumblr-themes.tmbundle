@@ -3,7 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{Title}</string>
+	<string>&lt;title&gt;{Title}&lt;/title&gt;
+$0</string>
 	<key>name</key>
 	<string>Title</string>
 	<key>scope</key>

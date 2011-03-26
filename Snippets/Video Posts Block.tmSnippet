@@ -11,7 +11,7 @@
 	<key>scope</key>
 	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
-	<string>video block</string>
+	<string>video</string>
 	<key>uuid</key>
 	<string>BD8B2A87-C98A-420F-9C5C-24395504BBAB</string>
 </dict>

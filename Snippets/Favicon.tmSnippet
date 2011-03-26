@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{Favicon}</string>
+	<string>&lt;link rel="shortcut icon" href="{Favicon}"/&gt;</string>
 	<key>name</key>
 	<string>Favicon</string>
 	<key>scope</key>

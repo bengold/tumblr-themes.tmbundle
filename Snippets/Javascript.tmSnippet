@@ -9,7 +9,7 @@
 	<key>scope</key>
 	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
-	<string>js</string>
+	<string>trans</string>
 	<key>uuid</key>
 	<string>B724DEB3-B3A6-4A8C-BFAF-543B297E3A63</string>
 </dict>

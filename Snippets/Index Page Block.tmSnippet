@@ -3,11 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{block:IndexPage}$1{/block:IndexPage}$0</string>
+	<string>{block:IndexPage}
+    $1
+{/block:IndexPage}
+$0</string>
 	<key>name</key>
 	<string>Index Page Block</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>indexpage</string>
 	<key>uuid</key>
 	<string>A0A50C88-DF3B-4EAC-BE71-A74C762FE60B</string>
 </dict>

@@ -4,12 +4,15 @@
 <dict>
 	<key>content</key>
 	<string>{block:PermalinkPage}
-	$0
-{/block:PermalinkPage}</string>
+	$1
+{/block:PermalinkPage}
+$0</string>
 	<key>name</key>
 	<string>Permalink Page Block</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>permalinkpage</string>
 	<key>uuid</key>
 	<string>DD1E7C14-0D90-4DCF-874C-A369DAADF93B</string>
 </dict>

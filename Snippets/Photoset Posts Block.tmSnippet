@@ -11,7 +11,7 @@
 	<key>scope</key>
 	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
-	<string>photoset block</string>
+	<string>photoset</string>
 	<key>uuid</key>
 	<string>9BA3E54B-93D0-41E9-BA6F-731AC2B14B0E</string>
 </dict>

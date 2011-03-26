@@ -8,6 +8,8 @@
 	<string>URL-safe Search Query</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>search</string>
 	<key>uuid</key>
 	<string>D039E70C-D862-496C-B06E-71259F18B66F</string>
 </dict>
