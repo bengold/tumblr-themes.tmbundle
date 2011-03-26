@@ -4,10 +4,10 @@
 <dict>
 	<key>content</key>
 	<string>{block:Likes}
-	$0
+	{Likes limit="${1:5}" summarize="${2:250}" width="${3:200}"}
 {/block:Likes}</string>
 	<key>name</key>
-	<string>Your Likes Block</string>
+	<string>Likes</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
