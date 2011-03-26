@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Chronological Tage Page URL</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>uuid</key>
 	<string>140A7215-70EC-41F8-95CF-C208DD88FF59</string>
 </dict>

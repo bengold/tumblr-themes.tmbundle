@@ -7,7 +7,9 @@
 	<key>name</key>
 	<string>Black</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>audio</string>
 	<key>uuid</key>
 	<string>11F639E2-C45D-412A-A249-19744CD93607</string>
 </dict>

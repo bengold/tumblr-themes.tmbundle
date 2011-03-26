@@ -7,7 +7,9 @@
 	<key>name</key>
 	<string>High-Res Photo Block</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>photo</string>
 	<key>uuid</key>
 	<string>FE9C7BF4-A942-455A-A57A-81024B0B9D87</string>
 </dict>

@@ -9,9 +9,9 @@
 	<key>name</key>
 	<string>Post Notes Block</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
-	<string>post notes</string>
+	<string>notes</string>
 	<key>uuid</key>
 	<string>25EA019D-370E-4A9A-A12C-BF62391309FA</string>
 </dict>

@@ -7,7 +7,9 @@
 	<key>name</key>
 	<string>Day of the Month Suffix</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>date</string>
 	<key>uuid</key>
 	<string>BB789E34-D565-451A-BD12-C3CFE4D65C36</string>
 </dict>

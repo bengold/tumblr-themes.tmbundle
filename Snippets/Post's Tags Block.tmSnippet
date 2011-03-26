@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Post's Tags Block</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
 	<string>tags block</string>
 	<key>uuid</key>

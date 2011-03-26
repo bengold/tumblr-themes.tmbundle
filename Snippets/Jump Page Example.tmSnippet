@@ -15,7 +15,7 @@
 	<key>name</key>
 	<string>Jump Page Example</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>uuid</key>
 	<string>98057736-2761-4571-8936-2A3D08790C31</string>
 </dict>

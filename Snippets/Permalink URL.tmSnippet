@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Permalink URL</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>uuid</key>
 	<string>179716BF-D092-4563-AABD-CE4848FD2368</string>
 </dict>

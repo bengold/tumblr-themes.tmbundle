@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Notes Inserted (AJAX)</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>uuid</key>
 	<string>D4ADFE34-A569-4E97-BC75-B52D1698A317</string>
 </dict>

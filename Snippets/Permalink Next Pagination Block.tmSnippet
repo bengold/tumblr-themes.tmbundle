@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Permalink Next Pagination Block</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>uuid</key>
 	<string>88BFA587-69B0-4A60-B90C-04D7A9C4D4C7</string>
 </dict>

@@ -9,7 +9,7 @@
 	<key>name</key>
 	<string>Permalink Pagination Block</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>uuid</key>
 	<string>1B0F187A-E56F-4109-9517-B612561BDEBC</string>
 </dict>

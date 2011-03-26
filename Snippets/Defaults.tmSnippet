@@ -8,7 +8,7 @@ $0</string>
 	<key>name</key>
 	<string>Defaults</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
 	<string>!defaults</string>
 	<key>uuid</key>

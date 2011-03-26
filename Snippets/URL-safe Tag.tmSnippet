@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>URL-safe Tag</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>uuid</key>
 	<string>D72C5489-77D1-431E-829A-1AAE5A364E15</string>
 </dict>

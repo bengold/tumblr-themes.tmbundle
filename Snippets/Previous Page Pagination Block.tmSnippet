@@ -7,7 +7,9 @@
 	<key>name</key>
 	<string>Previous Page Pagination Block</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>previous</string>
 	<key>uuid</key>
 	<string>2B8ED084-8CA5-4708-8E03-57C63AD05A37</string>
 </dict>

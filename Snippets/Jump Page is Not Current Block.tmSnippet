@@ -9,7 +9,7 @@
 	<key>name</key>
 	<string>Jump Page is Not Current Block</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>uuid</key>
 	<string>142B81BB-B9B9-49CC-9CC1-D496D94257A4</string>
 </dict>

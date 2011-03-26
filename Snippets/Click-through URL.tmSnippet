@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Click-through URL</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>uuid</key>
 	<string>5D5A7B21-677C-49D1-A168-845F38281D41</string>
 </dict>

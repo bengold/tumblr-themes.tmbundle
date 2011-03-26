@@ -9,7 +9,7 @@
 	<key>name</key>
 	<string>Has Pages Block</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
 	<string>has pages</string>
 	<key>uuid</key>

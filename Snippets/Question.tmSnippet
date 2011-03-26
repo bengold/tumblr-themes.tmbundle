@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Question</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>uuid</key>
 	<string>957F31CB-B4A0-4AFB-819A-46763F8F2CE0</string>
 </dict>

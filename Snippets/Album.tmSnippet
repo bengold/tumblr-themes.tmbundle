@@ -9,7 +9,7 @@
 	<key>name</key>
 	<string>Album</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
 	<string>album</string>
 	<key>uuid</key>

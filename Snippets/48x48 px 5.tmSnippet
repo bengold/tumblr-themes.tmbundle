@@ -7,7 +7,9 @@
 	<key>name</key>
 	<string>48x48 px</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>authorportrait</string>
 	<key>uuid</key>
 	<string>6A6A4C08-C871-4660-BBBB-F9118539A8C5</string>
 </dict>

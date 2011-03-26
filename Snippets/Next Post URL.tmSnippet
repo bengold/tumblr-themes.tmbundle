@@ -7,7 +7,9 @@
 	<key>name</key>
 	<string>Next Post URL</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>next</string>
 	<key>uuid</key>
 	<string>91E49CFF-4EA6-48C0-BBDF-9B14A2DD81F0</string>
 </dict>

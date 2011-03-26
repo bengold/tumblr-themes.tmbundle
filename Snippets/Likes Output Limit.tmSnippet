@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Likes Output Limit</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>uuid</key>
 	<string>5F680F56-D098-4994-89C5-9E6CEFBC09F9</string>
 </dict>

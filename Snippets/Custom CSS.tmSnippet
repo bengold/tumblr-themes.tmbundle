@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Custom CSS</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
 	<string>ccss</string>
 	<key>uuid</key>

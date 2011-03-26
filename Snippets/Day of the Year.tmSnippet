@@ -7,7 +7,9 @@
 	<key>name</key>
 	<string>Day of the Year</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>date</string>
 	<key>uuid</key>
 	<string>8853B869-FA78-475E-9C28-E680B4A41E81</string>
 </dict>

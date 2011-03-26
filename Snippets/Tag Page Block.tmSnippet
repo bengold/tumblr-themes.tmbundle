@@ -9,7 +9,7 @@
 	<key>name</key>
 	<string>Tag Page Block</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>uuid</key>
 	<string>A7D74107-D7E3-4069-AFF1-C7D377133D44</string>
 </dict>

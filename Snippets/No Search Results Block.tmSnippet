@@ -9,7 +9,7 @@
 	<key>name</key>
 	<string>No Search Results Block</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>uuid</key>
 	<string>7CDC40A7-9047-44E0-A5AE-C9698C3E490E</string>
 </dict>

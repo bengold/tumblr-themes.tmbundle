@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Current Page Number</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>uuid</key>
 	<string>6E7014D3-6AD0-4627-84F6-91FD652CD61C</string>
 </dict>

@@ -7,7 +7,9 @@
 	<key>name</key>
 	<string>Read More Break Block</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>more</string>
 	<key>uuid</key>
 	<string>438EDC8B-075A-4A67-B114-1F89784EC585</string>
 </dict>

@@ -7,7 +7,9 @@
 	<key>name</key>
 	<string>Hour (24 hour)</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>time</string>
 	<key>uuid</key>
 	<string>E9D48765-6C32-4188-8A6B-B98D13A2DEBF</string>
 </dict>

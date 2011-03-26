@@ -9,7 +9,7 @@
 	<key>name</key>
 	<string>Following Block</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>uuid</key>
 	<string>7E6FA647-B526-4408-A378-E75B7E62978C</string>
 </dict>

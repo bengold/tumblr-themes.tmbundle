@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Ask Link Label</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>uuid</key>
 	<string>2309667D-B7E1-4F98-97E9-9423F17C709C</string>
 </dict>

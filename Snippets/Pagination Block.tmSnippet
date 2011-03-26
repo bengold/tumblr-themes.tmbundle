@@ -9,7 +9,7 @@
 	<key>name</key>
 	<string>Pagination Block</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
 	<string>pagination</string>
 	<key>uuid</key>

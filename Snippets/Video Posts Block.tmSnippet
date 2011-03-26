@@ -9,7 +9,7 @@
 	<key>name</key>
 	<string>Video Posts Block</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
 	<string>video block</string>
 	<key>uuid</key>

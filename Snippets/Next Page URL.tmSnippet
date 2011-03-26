@@ -7,7 +7,9 @@
 	<key>name</key>
 	<string>Next Page URL</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>next</string>
 	<key>uuid</key>
 	<string>BD248ECD-329F-4893-9D7D-32A57E6E2980</string>
 </dict>

@@ -9,7 +9,7 @@
 	<key>name</key>
 	<string>Date Block</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
 	<string>dat block</string>
 	<key>uuid</key>

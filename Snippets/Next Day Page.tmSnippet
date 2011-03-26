@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Next Day Page</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>uuid</key>
 	<string>8087B2BA-DEDD-4A4E-B14C-D7D0436A18D4</string>
 </dict>

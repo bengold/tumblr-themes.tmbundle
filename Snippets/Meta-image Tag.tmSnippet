@@ -8,7 +8,7 @@ $0</string>
 	<key>name</key>
 	<string>Meta-image Tag</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
 	<string>meta image</string>
 	<key>uuid</key>

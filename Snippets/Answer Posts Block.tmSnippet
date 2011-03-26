@@ -9,7 +9,7 @@
 	<key>name</key>
 	<string>Answer Posts Block</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
 	<string>answer block</string>
 	<key>uuid</key>

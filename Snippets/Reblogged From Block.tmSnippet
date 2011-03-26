@@ -7,9 +7,9 @@
 	<key>name</key>
 	<string>Reblogged From Block</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
-	<string>reblog block</string>
+	<string>reblogged</string>
 	<key>uuid</key>
 	<string>965C366A-5C09-47A9-B0BD-2C5D72EA1251</string>
 </dict>

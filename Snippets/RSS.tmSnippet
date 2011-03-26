@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>RSS</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
 	<string>rss</string>
 	<key>uuid</key>

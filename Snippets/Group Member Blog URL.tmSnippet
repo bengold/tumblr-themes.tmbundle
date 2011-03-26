@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Group Member Blog URL</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>uuid</key>
 	<string>BE2407D4-AAC6-4FC8-9AE2-0378BFADF69D</string>
 </dict>

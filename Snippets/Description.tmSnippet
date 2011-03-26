@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Description</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
 	<string>desc</string>
 	<key>uuid</key>

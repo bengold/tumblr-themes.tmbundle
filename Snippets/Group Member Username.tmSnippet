@@ -7,7 +7,9 @@
 	<key>name</key>
 	<string>Group Member Username</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>groupname</string>
 	<key>uuid</key>
 	<string>F987B2C7-DA90-46D2-9B79-404128E4AE55</string>
 </dict>

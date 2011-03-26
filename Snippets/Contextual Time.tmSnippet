@@ -7,7 +7,9 @@
 	<key>name</key>
 	<string>Contextual Time</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>time</string>
 	<key>uuid</key>
 	<string>021AD125-ADAB-4F22-A758-0FC39674F780</string>
 </dict>

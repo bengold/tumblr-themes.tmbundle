@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{block:PostTitle}{PostTitle}{/block:PostTitle}$0</string>
+	<string>{block:PermalinkPage}&lt;${2:h1}&gt;${1:{PostTitle\}}&lt;/${2:h1}&gt;{/block:PermalinkPage}
+{block:IndexPage}&lt;${3:h4}&gt;${1}&lt;/${3:h4}&gt;{/block:IndexPage}
+$0</string>
 	<key>name</key>
 	<string>Post Title</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
-	<string>post title</string>
+	<string>title</string>
 	<key>uuid</key>
 	<string>8E710128-1B9F-46D4-8106-08C5418560AE</string>
 </dict>

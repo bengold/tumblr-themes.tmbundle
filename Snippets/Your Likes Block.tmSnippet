@@ -9,7 +9,9 @@
 	<key>name</key>
 	<string>Your Likes Block</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>likes</string>
 	<key>uuid</key>
 	<string>A8A6FAC4-D54C-4BA4-B5D5-624B33210386</string>
 </dict>

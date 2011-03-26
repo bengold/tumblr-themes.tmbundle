@@ -7,7 +7,9 @@
 	<key>name</key>
 	<string>Quote Length</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>quote</string>
 	<key>uuid</key>
 	<string>A1B9A211-9D51-4F0D-B6BA-E58D8A5A46AA</string>
 </dict>

@@ -9,9 +9,9 @@
 	<key>name</key>
 	<string>Quote Source Block</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
-	<string>source block</string>
+	<string>quote</string>
 	<key>uuid</key>
 	<string>89441AA2-E1DD-43B0-B59B-AF50BEA3154D</string>
 </dict>

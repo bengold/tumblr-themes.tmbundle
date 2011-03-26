@@ -9,7 +9,9 @@
 	<key>name</key>
 	<string>Group Members Block</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>group</string>
 	<key>uuid</key>
 	<string>9B10B44D-E5F5-4F16-A24F-F2C8EBCE9B8A</string>
 </dict>

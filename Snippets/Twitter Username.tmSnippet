@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Twitter Username</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>uuid</key>
 	<string>2317D476-0F3C-476D-B84E-1BA795D84107</string>
 </dict>

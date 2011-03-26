@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Numeric Post ID</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>uuid</key>
 	<string>F42161EA-E963-4E82-99F3-CC4563C63BD0</string>
 </dict>

@@ -9,9 +9,9 @@
 	<key>name</key>
 	<string>External Audio Block</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
-	<string>external audio</string>
+	<string>audio</string>
 	<key>uuid</key>
 	<string>29E04ABB-2D96-487A-8227-400F21AF3743</string>
 </dict>

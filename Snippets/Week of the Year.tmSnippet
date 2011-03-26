@@ -7,7 +7,9 @@
 	<key>name</key>
 	<string>Week of the Year</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>date</string>
 	<key>uuid</key>
 	<string>922D6E94-F695-468E-8415-33F21E064DCB</string>
 </dict>

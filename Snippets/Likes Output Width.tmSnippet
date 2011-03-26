@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Likes Output Width</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>uuid</key>
 	<string>83A87089-CAD1-4F57-A8D0-FDE6A093896C</string>
 </dict>

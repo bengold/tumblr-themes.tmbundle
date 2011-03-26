@@ -2,6 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>deleted</key>
+	<array>
+		<string>7B0964DB-3433-460A-BC09-5417BD3402EC</string>
+		<string>A39853EE-AEB1-4DF2-B9EA-7914940376EB</string>
+		<string>586AEF67-BDCD-4C0F-99C5-E19AA8CED199</string>
+	</array>
 	<key>mainMenu</key>
 	<dict>
 		<key>items</key>
@@ -791,13 +797,13 @@
 	<string>Tumblr Themes</string>
 	<key>ordering</key>
 	<array>
+		<string>DC474EDA-419E-4B59-B7E6-9C537B18B9EF</string>
 		<string>50EBF32D-8C1B-4163-9152-4617244F57A3</string>
 		<string>945FDF4D-EE62-4627-B10C-8DB26D890058</string>
 		<string>A921405E-6AB8-4C76-9609-91CD5F23F5E5</string>
 		<string>6610E94D-2CB6-4A90-9025-879E92926EF9</string>
 		<string>C5607143-B568-477C-9EDA-6F8ED1690772</string>
 		<string>A7C63BDB-C811-4BA3-B332-E79BAD146A72</string>
-		<string>7B0964DB-3433-460A-BC09-5417BD3402EC</string>
 		<string>DD1E7C14-0D90-4DCF-874C-A369DAADF93B</string>
 		<string>A0A50C88-DF3B-4EAC-BE71-A74C762FE60B</string>
 		<string>8E710128-1B9F-46D4-8106-08C5418560AE</string>
@@ -871,7 +877,6 @@
 		<string>391A0837-FDBE-41FA-B394-74F58302198E</string>
 		<string>41433DAA-4B4E-4B01-9933-745CDCBCE877</string>
 		<string>83FA8FE9-AB62-4B21-9924-19F837D0BEBB</string>
-		<string>A39853EE-AEB1-4DF2-B9EA-7914940376EB</string>
 		<string>4C4BD2EC-8DFB-44E1-BF39-223A5E1B9C6D</string>
 		<string>AFC7893A-7ED4-4699-A38D-DB18B2D2EEDD</string>
 		<string>C8B6ACA3-611C-4F8C-BCCD-1C3E3D305F00</string>
@@ -886,7 +891,6 @@
 		<string>390AC439-8B26-48CF-B695-D2CA8C0494D2</string>
 		<string>FE9C7BF4-A942-455A-A57A-81024B0B9D87</string>
 		<string>5DD2C84F-CCC9-4790-A012-B439F273B5D3</string>
-		<string>586AEF67-BDCD-4C0F-99C5-E19AA8CED199</string>
 		<string>52DA2854-803F-419D-8FF8-A2F19B1B1C74</string>
 		<string>9E485DA8-B662-44A6-A9DB-575506F5C020</string>
 		<string>E952AE7E-4CA9-428F-8531-42AA64C5D5E3</string>

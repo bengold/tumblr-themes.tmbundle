@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Note Count</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>uuid</key>
 	<string>0C04BD17-5AA8-4D93-9CC7-6CF45065FA1B</string>
 </dict>

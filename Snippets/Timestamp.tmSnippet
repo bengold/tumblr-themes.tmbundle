@@ -7,7 +7,9 @@
 	<key>name</key>
 	<string>Timestamp</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>time</string>
 	<key>uuid</key>
 	<string>5A6F3E63-C247-4045-B5E1-6ACAED6AA32D</string>
 </dict>

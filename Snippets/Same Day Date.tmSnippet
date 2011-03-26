@@ -9,7 +9,7 @@
 	<key>name</key>
 	<string>Same Day Date</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
 	<string>same day block</string>
 	<key>uuid</key>

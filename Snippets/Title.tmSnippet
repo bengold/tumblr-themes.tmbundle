@@ -7,7 +7,9 @@
 	<key>name</key>
 	<string>Title</string>
 	<key>scope</key>
-	<string>text.html.tumblrblock</string>
+	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>title</string>
 	<key>uuid</key>
 	<string>50EBF32D-8C1B-4163-9152-4617244F57A3</string>
 </dict>

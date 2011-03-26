@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Root Blog URL</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>uuid</key>
 	<string>3CA4524B-4F8E-4C50-9759-B66B8BB49990</string>
 </dict>

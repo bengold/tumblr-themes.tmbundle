@@ -9,9 +9,9 @@
 	<key>name</key>
 	<string>Chat Posts Block</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
-	<string>chat block</string>
+	<string>chat</string>
 	<key>uuid</key>
 	<string>7EC6D22E-633E-43B8-B668-6288654EE940</string>
 </dict>

@@ -9,7 +9,7 @@
 	<key>name</key>
 	<string>Day Page Block</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>uuid</key>
 	<string>1993A903-60DC-4C94-8E10-74E633E2ACD2</string>
 </dict>

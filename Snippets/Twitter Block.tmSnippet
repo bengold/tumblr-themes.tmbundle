@@ -9,7 +9,7 @@
 	<key>name</key>
 	<string>Twitter Block</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>uuid</key>
 	<string>71D4D038-FA4F-4294-96DD-A3BAA6EB69F8</string>
 </dict>

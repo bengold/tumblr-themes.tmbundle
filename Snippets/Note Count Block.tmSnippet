@@ -9,9 +9,9 @@
 	<key>name</key>
 	<string>Note Count Block</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
-	<string>note count</string>
+	<string>notecount</string>
 	<key>uuid</key>
 	<string>7FA8BD14-D92E-4E36-B4CC-DB0ECFAEED46</string>
 </dict>

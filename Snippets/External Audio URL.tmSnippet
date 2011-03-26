@@ -7,7 +7,9 @@
 	<key>name</key>
 	<string>External Audio URL</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>audio</string>
 	<key>uuid</key>
 	<string>2C6C82AC-DF37-44D8-B30E-7F2EA4207321</string>
 </dict>

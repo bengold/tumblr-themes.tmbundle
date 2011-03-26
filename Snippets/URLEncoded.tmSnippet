@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>URLEncoded</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
 	<string>encoded</string>
 	<key>uuid</key>

@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Total Page Count</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html.tumblr</string>
 	<key>uuid</key>
 	<string>2B980F22-0B7F-4EE0-9678-6413C0AFF137</string>
 </dict>

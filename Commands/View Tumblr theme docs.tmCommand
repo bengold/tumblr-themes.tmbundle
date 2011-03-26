@@ -10,6 +10,8 @@
 	<string>word</string>
 	<key>input</key>
 	<string>none</string>
+	<key>keyEquivalent</key>
+	<string>@?</string>
 	<key>name</key>
 	<string>View Tumblr theme docs</string>
 	<key>output</key>
