@@ -3,14 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{LinkOpenTag}$0{LinkCloseTag}</string>
+	<string>&lt;form action="/search" method="get"&gt;
+    &lt;input type="text" name="q" value="{SearchQuery}"/&gt;
+    &lt;input type="submit" value="Search"/&gt;
+&lt;/form&gt;</string>
 	<key>name</key>
-	<string>Link Open/Close Tags</string>
+	<string>Search Form</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
-	<string>link</string>
+	<string>search</string>
 	<key>uuid</key>
-	<string>CA0AEDF2-678F-4F98-A996-92DF46724631</string>
+	<string>476B278B-1149-4653-8CE6-3F295B02F05B</string>
 </dict>
 </plist>

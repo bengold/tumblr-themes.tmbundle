@@ -11,7 +11,7 @@
 	<key>scope</key>
 	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
-	<string>post block</string>
+	<string>posts</string>
 	<key>uuid</key>
 	<string>4C1BF47D-68BB-4440-B2A6-ABF86931BBB5</string>
 </dict>
