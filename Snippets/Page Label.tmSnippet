@@ -8,6 +8,8 @@
 	<string>Page Label</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>page</string>
 	<key>uuid</key>
 	<string>F470E006-0EAF-41B6-A128-F0CBAB6CB92C</string>
 </dict>
