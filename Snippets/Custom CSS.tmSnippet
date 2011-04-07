@@ -3,13 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{CustomCSS}</string>
+	<string>&lt;style type="text/css"&gt;
+    /* &lt;![CDATA[ */
+    {CustomCSS}
+    /* ]]&gt; */
+&lt;/style&gt;</string>
 	<key>name</key>
 	<string>Custom CSS</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
-	<string>ccss</string>
+	<string>customcss</string>
 	<key>uuid</key>
 	<string>A7C63BDB-C811-4BA3-B332-E79BAD146A72</string>
 </dict>

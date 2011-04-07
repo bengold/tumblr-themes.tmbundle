@@ -3,13 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{PostAuthorPortraitURL-16}</string>
+	<string>&lt;a href="{PostAuthorURL}"&gt;&lt;img src="{PostAuthorPortraitURL-${1:16/24/30/40/48/64/96/128}}" alt="{PostAuthorTitle}" width="${1}" height="${1}"$2&gt;&lt;/a&gt;
+$0</string>
 	<key>name</key>
-	<string>16x16 px</string>
+	<string>Post Author Portrait</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
-	<string>authorportrait</string>
+	<string>author</string>
 	<key>uuid</key>
 	<string>588E1A6C-E962-45DF-ADB3-0A6E7AC92971</string>
 </dict>

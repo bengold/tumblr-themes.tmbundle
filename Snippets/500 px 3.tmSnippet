@@ -3,11 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{Video-500}</string>
+	<string>{Video-${1:500/400/250}}
+</string>
 	<key>name</key>
-	<string>500 px</string>
+	<string>Video tag</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>video</string>
 	<key>uuid</key>
 	<string>06E7C087-1426-4925-AC5E-1FC3A85D8A16</string>
 </dict>

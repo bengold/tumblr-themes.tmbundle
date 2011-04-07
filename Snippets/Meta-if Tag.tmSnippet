@@ -10,7 +10,7 @@ $0</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
-	<string>meta if</string>
+	<string>boolean</string>
 	<key>uuid</key>
 	<string>DE09D220-AE91-4670-8E27-9F492C8C1BCF</string>
 </dict>

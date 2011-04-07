@@ -3,9 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{PhotoURL-500}</string>
+	<string>{LinkOpenTag}&lt;img src="{PhotoURL-${1:500/400/250/100/75sq/HighRes}}" alt="{PhotoAlt}"${1/(500|400|250|100)|(75sq)|(.+)|void/(?1: width="$1")(?2: width="75" height="75")/}&gt;{LinkCloseTag}
+$0</string>
 	<key>name</key>
-	<string>500 px</string>
+	<string>Photo tag</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>

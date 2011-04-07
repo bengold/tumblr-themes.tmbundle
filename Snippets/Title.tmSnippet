@@ -3,10 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;title&gt;{Title}&lt;/title&gt;
-$0</string>
+	<string>&lt;title&gt;{block:PostSummary}{PostSummary} ${1:&amp;mdash;} {/block:PostSummary}{Title}&lt;/title&gt;
+</string>
 	<key>name</key>
-	<string>Title</string>
+	<string>Page Title</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>

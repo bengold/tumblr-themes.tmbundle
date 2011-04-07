@@ -5,14 +5,14 @@
 	<key>content</key>
 	<string>{block:Post${1:[1-15]}}
 	$0
-{/block:Post$1} &lt;!-- insert an integer between 1 and 15 --&gt;
+{/block:Post$1}
 </string>
 	<key>name</key>
-	<string>Post# Block</string>
+	<string>Post #</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
-	<string>post# block</string>
+	<string>post</string>
 	<key>uuid</key>
 	<string>62057066-49BB-48AE-AC27-B746D02AA8E6</string>
 </dict>

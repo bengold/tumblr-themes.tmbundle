@@ -3,7 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;link rel="apple-touch-icon" href="{PortraitURL-128}"/&gt;</string>
+	<string>&lt;link rel="apple-touch-icon${1:-precomposed}" href="{PortraitURL-128}"&gt;
+</string>
 	<key>name</key>
 	<string>Touch icon</string>
 	<key>scope</key>

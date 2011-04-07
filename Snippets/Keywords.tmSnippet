@@ -4,13 +4,13 @@
 <dict>
 	<key>content</key>
 	<string>&lt;meta name="keywords" content="{block:Tags}{Tag}, {/block:Tags}{Title}" /&gt;
-$0</string>
+</string>
 	<key>name</key>
 	<string>Keywords</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
-	<string>desc</string>
+	<string>meta</string>
 	<key>uuid</key>
 	<string>285602A5-198C-4522-86B2-8117093BFF37</string>
 </dict>

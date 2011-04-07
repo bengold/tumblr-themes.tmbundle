@@ -3,9 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{PortraitURL-16}</string>
+	<string>&lt;img src="{PortraitURL-${1:16/24/30/40/48/64/96/128}}" alt="{Title}" width="${1}" height="${1}"$2&gt;
+$0</string>
 	<key>name</key>
-	<string>16x16 px</string>
+	<string>Portrait</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>

@@ -8,6 +8,8 @@
 	<string>Root Username</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>root</string>
 	<key>uuid</key>
 	<string>86CDC2CF-5074-453F-875C-25C00D05DDC3</string>
 </dict>

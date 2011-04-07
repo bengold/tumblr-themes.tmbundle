@@ -6,7 +6,7 @@
 	<string>{Description}
 $0</string>
 	<key>name</key>
-	<string>Description</string>
+	<string>Blog Description</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>

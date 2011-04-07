@@ -8,6 +8,8 @@
 	<string>Twitter Script</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>tweetjs</string>
 	<key>uuid</key>
 	<string>E8B7874F-95D9-4D73-8088-D78DE08B7BAA</string>
 </dict>

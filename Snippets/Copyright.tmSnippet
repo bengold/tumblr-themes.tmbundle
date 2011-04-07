@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{ReblogParentPortraitURL-128}</string>
+	<string>&amp;copy; {CopyrightYears} {Title}</string>
 	<key>name</key>
-	<string>128x128 px</string>
+	<string>Copyright</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
-	<string>reblogparentportrait</string>
+	<string>copyright</string>
 	<key>uuid</key>
-	<string>41433DAA-4B4E-4B01-9933-745CDCBCE877</string>
+	<string>9075C761-368B-4DA5-BDBB-D2FF3E4676DF</string>
 </dict>
 </plist>

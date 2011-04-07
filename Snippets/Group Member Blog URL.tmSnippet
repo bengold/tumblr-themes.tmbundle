@@ -5,9 +5,11 @@
 	<key>content</key>
 	<string>{GroupMemberURL}</string>
 	<key>name</key>
-	<string>Group Member Blog URL</string>
+	<string>Group Member URL</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>member</string>
 	<key>uuid</key>
 	<string>BE2407D4-AAC6-4FC8-9AE2-0378BFADF69D</string>
 </dict>

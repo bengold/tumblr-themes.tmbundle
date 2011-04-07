@@ -3,9 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{AskerPortraitURL-16}</string>
+	<string>&lt;img src="{AskerPortraitURL-${1:16/24/30/40/48/64/96/128}}" alt="{PostAuthorTitle}" width="${1}" height="${1}"$2&gt;
+</string>
 	<key>name</key>
-	<string>16x16 px</string>
+	<string>Asker Portrait</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>

@@ -4,7 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>&lt;link rel="alternate" type="application/rss+xml" title="RSS" href="{RSS}"/&gt;
-$0</string>
+</string>
 	<key>name</key>
 	<string>RSS</string>
 	<key>scope</key>

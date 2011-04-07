@@ -3,11 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{GroupMemberPortraitURL-16}</string>
+	<string>&lt;a href="{GroupMemberURL}"&gt;&lt;img src="{GroupMemberPortraitURL-${1:16/24/30/40/48/64/96/128}}" alt="{GroupMemberTitle}" width="${1}" height="${1}"$2&gt;&lt;/a&gt;
+$0</string>
 	<key>name</key>
-	<string>16x16 px</string>
+	<string>Group Member Portrait</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>member</string>
 	<key>uuid</key>
 	<string>4F4DBB59-6E06-4600-801F-0460D7BCCC3B</string>
 </dict>

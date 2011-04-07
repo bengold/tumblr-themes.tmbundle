@@ -3,9 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{Photoset-500}</string>
+	<string>{Photoset-${1:500/400/250}}
+$0</string>
 	<key>name</key>
-	<string>500 px</string>
+	<string>Photoset tag</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
 	<key>uuid</key>
