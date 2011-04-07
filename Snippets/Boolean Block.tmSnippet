@@ -11,7 +11,7 @@
 	<key>scope</key>
 	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
-	<string>boolean</string>
+	<string>if</string>
 	<key>uuid</key>
 	<string>65B3373D-CCB2-4573-801A-308A87339D53</string>
 </dict>
