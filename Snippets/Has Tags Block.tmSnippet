@@ -10,6 +10,8 @@
 	<string>Has Tags Block</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>tags</string>
 	<key>uuid</key>
 	<string>D9BFA153-0D95-49A5-BD8E-9C6F7CF2FD07</string>
 </dict>

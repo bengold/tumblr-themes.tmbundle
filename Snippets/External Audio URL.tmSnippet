@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{ExternalAudioURL}</string>
+	<string>&lt;a href="{ExternalAudioURL}"$2&gt;$1&lt;/a&gt;$0</string>
 	<key>name</key>
 	<string>External Audio URL</string>
 	<key>scope</key>

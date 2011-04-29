@@ -3,15 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;title&gt;{block:PostSummary}{PostSummary} ${1:&amp;mdash;} {/block:PostSummary}{Title}&lt;/title&gt;
-</string>
+	<string>{Title}</string>
 	<key>name</key>
-	<string>Page Title</string>
+	<string>Title</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
-	<string>title</string>
+	<string>chat</string>
 	<key>uuid</key>
-	<string>50EBF32D-8C1B-4163-9152-4617244F57A3</string>
+	<string>3C9B1847-1A18-4228-A51C-4317D9BC4BEB</string>
 </dict>
 </plist>

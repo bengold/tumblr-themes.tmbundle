@@ -8,6 +8,8 @@
 	<string>Name</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>link</string>
 	<key>uuid</key>
 	<string>02CCD62F-FF19-4F1A-A075-8E422565E381</string>
 </dict>

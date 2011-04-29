@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{NextPost}</string>
+	<string>&lt;a href="{NextPost}"$2&gt;$1&lt;/a&gt;$0</string>
 	<key>name</key>
 	<string>Next Post URL</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
-	<string>next</string>
+	<string>post pagination</string>
 	<key>uuid</key>
 	<string>91E49CFF-4EA6-48C0-BBDF-9B14A2DD81F0</string>
 </dict>

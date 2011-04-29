@@ -12,10 +12,12 @@
 		<array>
 			<string>customcss</string>
 			<string>indexpage</string>
-			<string>permalinkpage</string>
+			<string>permalink</string>
 			<string>portrait</string>
 			<string>reblog</string>
-			<string>tweetjs</string>
+			<string>twitter</string>
+			<string>pagination</string>
+			<string>jump pagination</string>
 		</array>
 	</dict>
 	<key>uuid</key>

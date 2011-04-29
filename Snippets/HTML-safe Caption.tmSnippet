@@ -8,6 +8,8 @@
 	<string>HTML-safe Caption</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>photo</string>
 	<key>uuid</key>
 	<string>AFC7893A-7ED4-4699-A38D-DB18B2D2EEDD</string>
 </dict>

@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;img src="{ReblogRootPortraitURL-${1:16/24/30/40/48/64/96/128}}" alt="{ReblogRootTitle}" width="${1}" height="${1}"$2&gt;
+	<string>{Photoset-${1:500/400/250}}
 $0</string>
 	<key>name</key>
-	<string>Root Portrait</string>
+	<string>Photoset tag</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
-	<string>root</string>
+	<string>photoset</string>
 	<key>uuid</key>
-	<string>86EC52B6-977D-4141-9690-7A220470B43F</string>
+	<string>52DA2854-803F-419D-8FF8-A2F19B1B1C74</string>
 </dict>
 </plist>

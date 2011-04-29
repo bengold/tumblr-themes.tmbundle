@@ -10,6 +10,8 @@
 	<string>Chat Lines Block</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>chat</string>
 	<key>uuid</key>
 	<string>DC49DC9F-2551-41ED-9461-E39A861B1D46</string>
 </dict>

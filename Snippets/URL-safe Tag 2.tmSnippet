@@ -8,6 +8,8 @@
 	<string>URL-safe Tag</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>tags</string>
 	<key>uuid</key>
 	<string>2509EBF7-75D0-4E13-A900-CC1866304338</string>
 </dict>

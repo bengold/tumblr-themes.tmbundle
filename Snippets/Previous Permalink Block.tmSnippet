@@ -3,13 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{Photoset-${1:500/400/250}}
-$0</string>
+	<string>{block:PreviousPost}$1{/block:PreviousPost}$0</string>
 	<key>name</key>
-	<string>Photoset tag</string>
+	<string>Previous Permalink Block</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>post pagination</string>
 	<key>uuid</key>
-	<string>52DA2854-803F-419D-8FF8-A2F19B1B1C74</string>
+	<string>F2505202-F297-4699-B61E-996CA787FC8D</string>
 </dict>
 </plist>

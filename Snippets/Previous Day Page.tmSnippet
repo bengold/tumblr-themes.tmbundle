@@ -3,11 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{PreviousDayPage}</string>
+	<string>&lt;a href="{PreviousDayPage}"$2&gt;$1&lt;/a&gt;$0</string>
 	<key>name</key>
 	<string>Previous Day Page</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>day page</string>
 	<key>uuid</key>
 	<string>3B9BA776-8BED-462C-BCAD-3906F904C400</string>
 </dict>

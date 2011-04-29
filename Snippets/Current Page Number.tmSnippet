@@ -9,7 +9,7 @@
 	<key>scope</key>
 	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
-	<string>pages</string>
+	<string>pagination</string>
 	<key>uuid</key>
 	<string>6E7014D3-6AD0-4627-84F6-91FD652CD61C</string>
 </dict>

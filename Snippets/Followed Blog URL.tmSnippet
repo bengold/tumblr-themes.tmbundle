@@ -3,11 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{FollowedURL}</string>
+	<string>&lt;a href="{FollowedURL}"$2&gt;$1&lt;/a&gt;$0
+
+</string>
 	<key>name</key>
 	<string>Followed Blog URL</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>following</string>
 	<key>uuid</key>
 	<string>149BA33B-86EC-40E6-B399-3873E777B96F</string>
 </dict>

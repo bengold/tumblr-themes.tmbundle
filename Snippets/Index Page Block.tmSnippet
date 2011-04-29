@@ -12,7 +12,7 @@ $0</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
-	<string>indexpage</string>
+	<string>index</string>
 	<key>uuid</key>
 	<string>A0A50C88-DF3B-4EAC-BE71-A74C762FE60B</string>
 </dict>

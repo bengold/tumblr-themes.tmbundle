@@ -3,12 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{FollowedPortraitURL-96}</string>
+	<string>{PostID}</string>
 	<key>name</key>
-	<string>96x96 px</string>
+	<string>Post ID</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>permalink</string>
 	<key>uuid</key>
-	<string>7EFDD649-A8C8-46C2-96EB-8593ACA3E41E</string>
+	<string>F42161EA-E963-4E82-99F3-CC4563C63BD0</string>
 </dict>
 </plist>

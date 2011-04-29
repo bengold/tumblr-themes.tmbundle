@@ -3,15 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{Description}
-$0</string>
+	<string>{Description}</string>
 	<key>name</key>
-	<string>Blog Description</string>
+	<string>Description</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
-	<string>desc</string>
+	<string>link</string>
 	<key>uuid</key>
-	<string>945FDF4D-EE62-4627-B10C-8DB26D890058</string>
+	<string>D6985468-1781-4BD6-9193-5A1BE1CC3B42</string>
 </dict>
 </plist>

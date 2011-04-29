@@ -3,12 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{TagURLChrono}</string>
+	<string>{block:German}
+	$0
+{/block:German}</string>
 	<key>name</key>
-	<string>Chronological Tage Page URL</string>
+	<string>German Block</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>german</string>
 	<key>uuid</key>
-	<string>140A7215-70EC-41F8-95CF-C208DD88FF59</string>
+	<string>54D7575C-0164-4389-9195-8CF5E4769436</string>
 </dict>
 </plist>

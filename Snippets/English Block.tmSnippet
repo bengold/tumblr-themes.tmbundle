@@ -3,14 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{block:CurrentPage}
+	<string>{block:English}
 	$0
-{/block:CurrentPage}</string>
+{/block:English}</string>
 	<key>name</key>
-	<string>Jump Page is Current Block</string>
+	<string>English Block</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>english</string>
 	<key>uuid</key>
-	<string>418A364D-39A9-44E4-958F-397D0791C63F</string>
+	<string>ED8CFD29-18D2-4998-87D8-5E73A4BA376C</string>
 </dict>
 </plist>

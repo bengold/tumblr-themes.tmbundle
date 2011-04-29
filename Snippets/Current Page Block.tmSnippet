@@ -3,12 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{FollowedPortraitURL-30}</string>
+	<string>{block:CurrentPage}
+	$0
+{/block:CurrentPage}</string>
 	<key>name</key>
-	<string>30x30 px</string>
+	<string>Current Page Block</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>jump</string>
 	<key>uuid</key>
-	<string>0A2613A0-8A87-4D3C-AD98-4DE27B5B619C</string>
+	<string>418A364D-39A9-44E4-958F-397D0791C63F</string>
 </dict>
 </plist>

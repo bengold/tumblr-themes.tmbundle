@@ -8,6 +8,8 @@
 	<string>Caption Block</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>video</string>
 	<key>uuid</key>
 	<string>2AEDBB97-8215-49E9-A267-774C69B18B10</string>
 </dict>

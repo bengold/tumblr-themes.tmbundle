@@ -3,15 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;img src="{ReblogParentPortraitURL-${1:16/24/30/40/48/64/96/128}}" alt="{ReblogParentTitle}" width="${1}" height="${1}"$2&gt;
-$0</string>
+	<string>{block:JumpPage}
+	$0
+{/block:JumpPage}</string>
 	<key>name</key>
-	<string>Parent Portrait</string>
+	<string>Jump Page Block</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
-	<string>reblogparentportrait</string>
+	<string>jump</string>
 	<key>uuid</key>
-	<string>782FBCF2-6296-4B90-BA93-7D5573DEEDB6</string>
+	<string>142B81BB-B9B9-49CC-9CC1-D496D94257A4</string>
 </dict>
 </plist>

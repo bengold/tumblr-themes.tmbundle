@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{GroupMemberURL}</string>
+	<string>&lt;a href="{GroupMemberURL}"$2&gt;$1&lt;/a&gt;$0</string>
 	<key>name</key>
 	<string>Group Member URL</string>
 	<key>scope</key>

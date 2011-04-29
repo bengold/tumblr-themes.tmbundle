@@ -8,6 +8,8 @@
 	<string>Notes Loaded (AJAX)</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>ajax notes</string>
 	<key>uuid</key>
 	<string>CDBAC089-3E70-4385-A317-BCA03BA1AAF8</string>
 </dict>

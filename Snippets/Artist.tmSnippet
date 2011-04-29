@@ -11,7 +11,7 @@
 	<key>scope</key>
 	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
-	<string>artist</string>
+	<string>track</string>
 	<key>uuid</key>
 	<string>98757069-5D61-4F15-A552-CAAE16FC7A4B</string>
 </dict>

@@ -3,12 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{FollowedPortraitURL-24}</string>
+	<string>{block:French}
+	$0
+{/block:French}</string>
 	<key>name</key>
-	<string>24x24 px</string>
+	<string>French Block</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>french</string>
 	<key>uuid</key>
-	<string>F9BCF603-BFD6-4FFF-85E3-140A4F8DA8F8</string>
+	<string>4BC42302-64DF-4228-A8CE-CF386D769FBC</string>
 </dict>
 </plist>

@@ -3,17 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{block:Post${1:[1-15]}}
+	<string>{block:NotEnglish}
 	$0
-{/block:Post$1}
-</string>
+{/block:NotEnglish}</string>
 	<key>name</key>
-	<string>Post #</string>
+	<string>Not English Block</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
-	<string>post</string>
+	<string>noenglish</string>
 	<key>uuid</key>
-	<string>62057066-49BB-48AE-AC27-B746D02AA8E6</string>
+	<string>0F4437D5-137D-4B02-A00D-8B2ECFF9614E</string>
 </dict>
 </plist>

@@ -3,11 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{URL}</string>
+	<string>&lt;a href="{URL}"$2&gt;$1&lt;/a&gt;$0</string>
 	<key>name</key>
 	<string>Link URL</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>link</string>
 	<key>uuid</key>
 	<string>284B9510-1DCB-4CB8-B5DE-74D167BD1486</string>
 </dict>

@@ -8,6 +8,8 @@
 	<string>Twitter Username</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>twitter</string>
 	<key>uuid</key>
 	<string>2317D476-0F3C-476D-B84E-1BA795D84107</string>
 </dict>

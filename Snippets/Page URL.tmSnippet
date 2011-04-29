@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{URL}</string>
+	<string>&lt;a href="{URL}"$2&gt;$1&lt;/a&gt;$0</string>
 	<key>name</key>
 	<string>Page URL</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
-	<string>page</string>
+	<string>pages</string>
 	<key>uuid</key>
 	<string>0CB91FD0-CC63-4A3A-9BE8-4DF0632E8BE8</string>
 </dict>

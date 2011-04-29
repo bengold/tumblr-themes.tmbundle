@@ -5,9 +5,11 @@
 	<key>content</key>
 	<string>{block:NextPost}$1{/block:NextPost}$0</string>
 	<key>name</key>
-	<string>Permalink Next Pagination Block</string>
+	<string>Next Permalink Block</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>post pagination</string>
 	<key>uuid</key>
 	<string>88BFA587-69B0-4A60-B90C-04D7A9C4D4C7</string>
 </dict>

@@ -8,6 +8,8 @@
 	<string>Formatted Play Count</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>audio</string>
 	<key>uuid</key>
 	<string>436B6552-7C72-414B-89E4-31B29FD64A81</string>
 </dict>

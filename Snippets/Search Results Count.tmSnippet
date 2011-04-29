@@ -8,6 +8,8 @@
 	<string>Search Results Count</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>search</string>
 	<key>uuid</key>
 	<string>B241CD68-CC04-4BE0-9C9E-006143A4CA01</string>
 </dict>

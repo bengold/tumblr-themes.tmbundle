@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;img src="{AskerPortraitURL-${1:16/24/30/40/48/64/96/128}}" alt="{PostAuthorTitle}" width="${1}" height="${1}"$2&gt;
-</string>
+	<string>{Description}
+$0</string>
 	<key>name</key>
-	<string>Asker Portrait</string>
+	<string>Blog Description</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
-	<string>asker</string>
+	<string>desc</string>
 	<key>uuid</key>
-	<string>38D7936F-F133-4A20-9BF3-7C583595E967</string>
+	<string>945FDF4D-EE62-4627-B10C-8DB26D890058</string>
 </dict>
 </plist>

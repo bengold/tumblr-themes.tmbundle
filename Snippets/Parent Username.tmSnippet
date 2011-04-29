@@ -8,6 +8,8 @@
 	<string>Parent Username</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>reblog</string>
 	<key>uuid</key>
 	<string>031718C0-681B-44B5-868C-5B62F0FAF179</string>
 </dict>

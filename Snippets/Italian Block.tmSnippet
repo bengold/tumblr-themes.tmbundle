@@ -3,12 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{FollowedPortraitURL-64}</string>
+	<string>{block:Italian}
+	$0
+{/block:Italian}</string>
 	<key>name</key>
-	<string>64x64 px</string>
+	<string>Italian Block</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>noenglish</string>
 	<key>uuid</key>
-	<string>232921A1-DCBC-43A0-87BD-E04C8E7556CF</string>
+	<string>BF9984E8-11FC-4BB1-9B60-F9409F886440</string>
 </dict>
 </plist>

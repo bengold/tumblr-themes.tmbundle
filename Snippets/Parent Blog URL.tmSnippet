@@ -3,11 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{ReblogParentURL}</string>
+	<string>&lt;a href="{ReblogParentURL}"$2&gt;$1&lt;/a&gt;$0</string>
 	<key>name</key>
 	<string>Parent Blog URL</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>reblog</string>
 	<key>uuid</key>
 	<string>5775A1B3-49BF-4D21-9465-F0DE5B223807</string>
 </dict>
