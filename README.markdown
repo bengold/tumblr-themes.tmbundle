@@ -10,6 +10,16 @@ This version is still a work in progress and I plan on finishing it up very soon
 
 ### Release Notes - Updated: 07/29/10 ###
 
+__[2.0b]__
+
+* Added tab triggers for nearly everything, smart ones too.
+* Added things from David Kaneda's fork:
+	* Tumblr syntax language
+	* completions
+	* consolidated portrait snippets (really cool!)
+	* other stuff I'm forgetting
+* Added markup to url snippets
+
 __[1.4]__
 
 * Added Staff Blog link.
