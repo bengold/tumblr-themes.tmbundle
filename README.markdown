@@ -13,7 +13,7 @@ This version is still a work in progress and I plan on finishing it up very soon
 __[2.0b]__
 
 * Added tab triggers for nearly everything, smart ones too.
-* Added things from David Kaneda's fork:
+* Added things from [David Kaneda's](http://9-bits.com/) fork:
 	* Tumblr syntax language
 	* completions
 	* consolidated portrait snippets (really cool!)
