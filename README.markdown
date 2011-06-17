@@ -3,12 +3,15 @@ Tumblr Themes TextMate Bundle 2.0 beta
 
 ### What is this? ###
 
-This is is a tmbundle for the Mac text editor [TextMate](http://macromates.com/). It contains snippets for every Block and Variable from the Tumblr custom themes docs as of April 2011. There are a lot of snippets in this bundle, about a megabyte's worth (which is pretty fucking big for a TextMate bundle). They have been organized in a manner that is similar to the [theme docs](http://www.tumblr.com/docs/en/custom_themes), but some adjustments have been made to make the snippets easy accessible in the contextual menu.
-
-This version is still a work in progress and I plan on finishing it up very soon...
+This is is a tmbundle for the Mac text editor [TextMate](http://macromates.com/). It contains snippets for every Block and Variable from the Tumblr custom themes docs as of June 2011. There are a lot of snippets in this bundle, about a megabyte's worth (which is pretty fucking big for a TextMate bundle). They have been organized in a manner that is similar to the [theme docs](http://www.tumblr.com/docs/en/custom_themes), but some adjustments have been made to make the snippets easy accessible in the contextual menu.
 
 
-### Release Notes - Updated: 07/29/10 ###
+### Release Notes - Updated: 06/17/11 ###
+
+__[2.1]__
+
+* Added Exif variables.
+* Maybe I'll clean up whatever is left sometime...
 
 __[2.0b]__
 

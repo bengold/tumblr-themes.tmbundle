@@ -3,9 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{block:Source}
-	$0
-{/block:Source}</string>
+	<string>{block:Source}$0{/block:Source}</string>
 	<key>name</key>
 	<string>Quote Source Block</string>
 	<key>scope</key>

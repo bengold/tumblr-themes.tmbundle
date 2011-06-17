@@ -399,6 +399,7 @@
 				<array>
 					<string>F169C29C-6B2B-45DE-8227-BA45EF1AF750</string>
 					<string>89441AA2-E1DD-43B0-B59B-AF50BEA3154D</string>
+					<string>------------------------------------</string>
 					<string>E230A86D-97D9-4888-84A9-9AA26A2F4702</string>
 					<string>A1B9A211-9D51-4F0D-B6BA-E58D8A5A46AA</string>
 				</array>
@@ -474,8 +475,10 @@
 			<dict>
 				<key>items</key>
 				<array>
-					<string>5DD2C84F-CCC9-4790-A012-B439F273B5D3</string>
 					<string>52DA2854-803F-419D-8FF8-A2F19B1B1C74</string>
+					<string>------------------------------------</string>
+					<string>5DD2C84F-CCC9-4790-A012-B439F273B5D3</string>
+					<string>7C332974-83A3-4381-9E6D-A0987B85133A</string>
 				</array>
 				<key>name</key>
 				<string>Photoset Posts</string>
@@ -637,19 +640,36 @@
 				<key>name</key>
 				<string>Posts</string>
 			</dict>
+			<key>DDF214EA-4349-4416-B68C-21B77842E6FE</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>1A580EF6-4F30-4CCE-A9FD-30A141A7B97E</string>
+					<string>------------------------------------</string>
+					<string>73101B72-9468-452F-AFEF-687380F47D48</string>
+					<string>7ECF352D-E4D1-4B9F-A766-B53ABA481B31</string>
+					<string>9243DAF1-5975-4A3E-B364-B374AF11D1A4</string>
+					<string>EAFD769B-9146-4FF6-8A37-D57E96925527</string>
+				</array>
+				<key>name</key>
+				<string>Exif</string>
+			</dict>
 			<key>DF75D192-CF65-49D0-ADF0-DCE184AC5689</key>
 			<dict>
 				<key>items</key>
 				<array>
-					<string>AFC7893A-7ED4-4699-A38D-DB18B2D2EEDD</string>
+					<string>E9D2770F-0CC7-468D-A95F-94AB7192A190</string>
+					<string>------------------------------------</string>
 					<string>C8B6ACA3-611C-4F8C-BCCD-1C3E3D305F00</string>
 					<string>390AC439-8B26-48CF-B695-D2CA8C0494D2</string>
+					<string>AFC7893A-7ED4-4699-A38D-DB18B2D2EEDD</string>
 					<string>5D5A7B21-677C-49D1-A168-845F38281D41</string>
-					<string>E9D2770F-0CC7-468D-A95F-94AB7192A190</string>
 					<string>CA0AEDF2-678F-4F98-A996-92DF46724631</string>
 					<string>------------------------------------</string>
 					<string>FE9C7BF4-A942-455A-A57A-81024B0B9D87</string>
 					<string>BA49BD88-A555-43A0-8732-9F8616F34DE8</string>
+					<string>------------------------------------</string>
+					<string>DDF214EA-4349-4416-B68C-21B77842E6FE</string>
 				</array>
 				<key>name</key>
 				<string>Photo Posts</string>
@@ -834,6 +854,7 @@
 		<string>2602AA92-C8EB-4AC2-9F2F-5515923C1A32</string>
 		<string>1BC04ACC-9D04-40FA-922D-4E714C61D2F0</string>
 		<string>8C5D219F-4DDF-43D1-9A47-A3FFCFEEF04B</string>
+		<string>7C332974-83A3-4381-9E6D-A0987B85133A</string>
 		<string>841B555C-13DA-42B0-8583-2032AA54EE13</string>
 		<string>10C5CC66-A10E-4427-8E14-75E21731B744</string>
 		<string>27C2C6BF-22F5-42F5-B4CD-07DEB2C8AE08</string>
@@ -974,6 +995,11 @@
 		<string>4BC42302-64DF-4228-A8CE-CF386D769FBC</string>
 		<string>97B38EF8-A4DE-4132-85B3-5816D5F7893D</string>
 		<string>BF9984E8-11FC-4BB1-9B60-F9409F886440</string>
+		<string>1A580EF6-4F30-4CCE-A9FD-30A141A7B97E</string>
+		<string>73101B72-9468-452F-AFEF-687380F47D48</string>
+		<string>7ECF352D-E4D1-4B9F-A766-B53ABA481B31</string>
+		<string>9243DAF1-5975-4A3E-B364-B374AF11D1A4</string>
+		<string>EAFD769B-9146-4FF6-8A37-D57E96925527</string>
 	</array>
 	<key>uuid</key>
 	<string>4D096479-1B18-4746-9D04-349D7D776C86</string>

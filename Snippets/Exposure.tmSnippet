@@ -3,14 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{Caption}</string>
+	<string>{block:Exposure}
+	$0 {Exposure}
+{/block:Exposure}</string>
 	<key>name</key>
-	<string>Caption</string>
+	<string>Exposure</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
-	<string>photoset</string>
+	<string>exif</string>
 	<key>uuid</key>
-	<string>7C332974-83A3-4381-9E6D-A0987B85133A</string>
+	<string>9243DAF1-5975-4A3E-B364-B374AF11D1A4</string>
 </dict>
 </plist>

@@ -3,14 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{Caption}</string>
+	<string>{block:FocalLength}
+	$0 {FocalLength}
+{/block:FocalLength}</string>
 	<key>name</key>
-	<string>Caption</string>
+	<string>FocalLength</string>
 	<key>scope</key>
 	<string>text.html.tumblr</string>
 	<key>tabTrigger</key>
-	<string>photoset</string>
+	<string>exif</string>
 	<key>uuid</key>
-	<string>7C332974-83A3-4381-9E6D-A0987B85133A</string>
+	<string>EAFD769B-9146-4FF6-8A37-D57E96925527</string>
 </dict>
 </plist>
