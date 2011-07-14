@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{JSPhotosetLayout}</string>
+	<key>name</key>
+	<string>JS Photoset Layout</string>
+	<key>scope</key>
+	<string>text.html.tumblr</string>
+	<key>tabTrigger</key>
+	<string>photoset</string>
+	<key>uuid</key>
+	<string>B6BC325D-39DE-4641-BDC3-54CDA6D33B7B</string>
+</dict>
+</plist>
